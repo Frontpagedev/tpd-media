@@ -37,6 +37,7 @@ Every day, publish **1 video, 1 carousel and 1 GIF-style piece** to The Pakistan
   - Use plenty of animation and graphics.
   - Narration is optional (edge-tts `ur-PK-AsadNeural`, via `toolkit/vo/tts2.py`). Sound bites with English subtitles are preferred.
   - End card: logo plus thepakistandaily.com, no sources list.
+  - **Audio from the very first frame.** Open on natural sound (launch roar, crowd, a quote) under the music. Before posting, run ffmpeg volumedetect on every 2-second window and confirm none is silent; the r25/r26 mix has started late before (8 s of silence on 25 Nov).
   - Templates: `toolkit/templates/render25.py` (no-voiceover, bites, graphics) and `render23.py` (narrated report). Render in X mode for 4:5.
   - Append the 4:5 cover as the last 0.6 s and set Buffer `thumbnailOffset` to that frame, so it becomes the Reel cover.
 - **Carousel** (4 to 6 slides, 4:5): `toolkit/carousel.py slides.json OUT`. Keep content inside the margins.
