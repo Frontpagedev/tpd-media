@@ -1,6 +1,8 @@
 # The Pakistan Daily: daily social loop
 
-Every day, publish **1 video, 1 carousel and 1 GIF-style piece** to The Pakistan Daily's Instagram (feed and Story) and X. The editor is Hamza (the user). The outlet is always written "The Pakistan Daily".
+**Read `SOCIAL_MANAGER.md` first: it sets the four daily runs, the engagement goal and the learning loop, and wins where this file differs (the GIF piece is retired; simple clips replace it).** This file holds the format specs and standing rules.
+
+Every day, publish **1 video, 1 carousel and 3 simple clips** to The Pakistan Daily's Instagram (feed and Story) and X. The editor is Hamza (the user). The outlet is always written "The Pakistan Daily".
 
 ## Hard separation from the Venezuela Tribune (VT)
 - Post **only** through the **Buffer connector**, organization `6b0597292e5fe8a4a8ab0daf`.
