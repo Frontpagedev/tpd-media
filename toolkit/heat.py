@@ -3,6 +3,7 @@
   python3 toolkit/heat.py score <x-url-or-id> [...]   rank other people's posts (what is already travelling)
   python3 toolkit/heat.py own                         refresh our own posts in social/scoreboard.json (last 4 days)
   python3 toolkit/heat.py top [days]                  our best and worst posts, for the lessons file
+  python3 toolkit/heat.py trend                       reach per day, and this week against last week (the growth goal)
 
 score = likes + 2*reposts + 2*replies + 2*quotes; heat = score per hour since posting. Views are shown as well.
 Instagram numbers for our own posts come from Buffer (list_posts includeMetrics) and are written by the run itself.
@@ -61,6 +62,23 @@ def main():
         for p in rows:
             print(f"{total(p):>6}  {p.get('date')} {p.get('format'):<9} x:{(p.get('x') or {}).get('views', '-')}v/{(p.get('x') or {}).get('score', '-')}  "
                   f"ig:{(p.get('ig') or {}).get('views', '-')}v/{(p.get('ig') or {}).get('score', '-')}  {p.get('story', '')[:60]}  [{p.get('hook', '')[:40]}]")
+    elif cmd == "trend":
+        days = {}
+        for p in load():
+            d = days.setdefault(p.get("date", "?"), {"posts": 0, "views": 0, "score": 0})
+            d["posts"] += 1
+            for k in ("x", "ig"):
+                d["views"] += int((p.get(k) or {}).get("views") or 0); d["score"] += int((p.get(k) or {}).get("score") or 0)
+        keys = sorted(days)
+        for k in keys[-14:]:
+            d = days[k]; print(f"{k}  posts {d['posts']:>2}  views {d['views']:>7}  engagement {d['score']:>5}  views/post {d['views'] // max(d['posts'], 1):>6}")
+        avg = lambda ks, f: sum(days[k][f] for k in ks) / max(len(ks), 1)
+        this, last = keys[-7:], keys[-14:-7]
+        if last:
+            for f in ("views", "score"):
+                a, b = avg(this, f), avg(last, f); print(f"{f} per day: last 7 days {a:.0f}, the 7 before {b:.0f}, change {((a - b) / b * 100 if b else 0):+.0f}%")
+        else:
+            print("Under 8 days of data: no week-on-week comparison yet.")
     else:
         print(__doc__)
 
