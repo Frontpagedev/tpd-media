@@ -22,6 +22,7 @@ Last rewritten: 28 Nov 2026, from 26 Instagram feed posts (14 to 27 Nov, Buffer)
 - Story type: a feel-good Pakistani story the world press is already sharing (bigger change, because views fell 3 days running). Clip and evening runs: keep politics only if it has a first-person quote.
 
 ## Changed this run (one line per run, newest first, keep 8)
+- 28 Nov 12:47 clip run: key-number card (hours counter to "2 DAYS", Wed-Fri bar) instead of a quote card, on the Karachi survivor (feel-good experiment). No heat numbers: x.com search returned nothing from the last 24 h and fxtwitter search/timelines are dead, so no clean footage could be found; the scout needs post URLs from ig_scout or the editor. Dawn could not be re-fetched, so "54 hours" was left out for "about two days" (Geo, ARY).
 - 28 Nov 08:08 carousel: first non-politics, human-interest carousel (Swat motorbike catch; NYT post 981,000 views, heat 253), opening on the person and ending on a question to draw comments. Scout could not find fresh X posts for Pakistani outlets, and geo.tv and tribune.com.pk could not be fetched.
 - 27 Nov 19:23 evening video: opened on the subject's own English sound bite with the headline on the first frame; astronaut topic again; only one clean clip existed.
 - 27 Nov 17:47 clip run: 9 s word-by-word quote card (Asif on the Makkah pact) as a sequel to our own morning post; x.com search is not recency-sorted.

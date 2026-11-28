@@ -483,14 +483,14 @@
   "buffer_x": "6b097e56062ed764a8170277",
   "x_url": "https://twitter.com/ThePakDaily/status/2126299506459197862",
   "x": {
-   "views": 294,
-   "likes": 5,
+   "views": 312,
+   "likes": 8,
    "reposts": 0,
    "replies": 0,
    "quotes": 0,
-   "score": 5
+   "score": 8
   },
-  "x_checked_h": 14.2,
+  "x_checked_h": 19.0,
   "ig": {
    "views": 10,
    "reach": 0,
@@ -515,14 +515,14 @@
   "buffer_x": "6b0996a618c8c6749bf16d7c",
   "x_url": "https://twitter.com/ThePakDaily/status/2126325628236444049",
   "x": {
-   "views": 126,
-   "likes": 4,
+   "views": 146,
+   "likes": 5,
    "reposts": 0,
    "replies": 0,
    "quotes": 0,
-   "score": 4
+   "score": 5
   },
-  "x_checked_h": 12.5
+  "x_checked_h": 17.2
  },
  {
   "date": "2026-11-27",
@@ -550,6 +550,32 @@
   "buffer_ig": "6b0a48b9eab081a3f51c5953",
   "buffer_ig_story": "6b0a48c42a2e4f66caf646d5",
   "buffer_x": "6b0a48cd70e80ae8f1cafe72",
-  "x_url": "https://twitter.com/ThePakDaily/status/2126516894794498369"
+  "x_url": "https://twitter.com/ThePakDaily/status/2126516894794498369",
+  "x": {
+   "views": 66,
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "quotes": 0,
+   "score": 0
+  },
+  "x_checked_h": 4.6
+ },
+ {
+  "date": "2026-11-28",
+  "run": "clip-1247",
+  "posted_ts": 1795852694,
+  "posted_hour_pkt": 12,
+  "format": "card",
+  "story": "Karachi Admin Society building collapse: worker named Adil pulled out alive on Friday, about two days after Wednesday's collapse; toll 11, search continues",
+  "topic": "Karachi/human interest",
+  "hook": "Two days under the rubble. He came out alive.",
+  "seconds": 9,
+  "source_account": null,
+  "source_heat": null,
+  "buffer_ig": "6b0a8996fe7140cdac9d7d76",
+  "buffer_ig_story": "6b0a89a1db8a1c14ef14f4e7",
+  "buffer_x": "6b0a89abd718580fbd6c119b",
+  "x_url": "https://twitter.com/ThePakDaily/status/2126586547256377476"
  }
 ]
