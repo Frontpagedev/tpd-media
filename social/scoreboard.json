@@ -1,5 +1,473 @@
 [
  {
+  "date": "2026-11-14",
+  "run": "backfill",
+  "posted_ts": 1794652304,
+  "posted_hour_pkt": 15,
+  "format": "video",
+  "story": "Should Pakistan be cut into more provinces? 🇵🇰 “Sindh is our mother, and it will not be divided.” That was Faryal Talpur in the Sindh Assembly, and the PPP isn’",
+  "topic": "politics/provinces",
+  "hook": "Should Pakistan be cut into more provinces? 🇵🇰",
+  "buffer_ig": "6b059acc432c6e55b17e56bb",
+  "ig": {
+   "views": 1824,
+   "reach": 1545,
+   "likes": 14,
+   "comments": 5,
+   "score": 24
+  }
+ },
+ {
+  "date": "2026-11-15",
+  "run": "backfill",
+  "posted_ts": 1794749585,
+  "posted_hour_pkt": 18,
+  "format": "image",
+  "story": "Five men, one top spot. But who really holds the power? 👑 The Muslim 500 has ranked PM Shehbaz Sharif and Field Marshal Asim Munir No. 1 among the world’s most ",
+  "topic": "politics",
+  "hook": "Five men, one top spot. But who really holds the power? 👑",
+  "buffer_ig": "6b059acc432c6e55b17e56f9",
+  "ig": {
+   "views": 1775,
+   "reach": 1546,
+   "likes": 17,
+   "comments": 2,
+   "score": 21
+  }
+ },
+ {
+  "date": "2026-11-16",
+  "run": "backfill",
+  "posted_ts": 1794818947,
+  "posted_hour_pkt": 13,
+  "format": "video",
+  "story": "D-8 Secretary-General Amb. Sohail Mahmood joined 102 leaders from 95 countries at the Antalya Leaders’ Summit, calling for accessible climate finance, technolog",
+  "topic": "diplomacy/D-8",
+  "hook": "D-8 Secretary-General Amb. Sohail Mahmood joined 102 leaders from 95 countries at the Antalya Leaders’ Summit, calling for accessible climat",
+  "buffer_ig": "6b059acc432c6e55b17e56cd",
+  "ig": {
+   "views": 143,
+   "reach": 113,
+   "likes": 1,
+   "comments": 0,
+   "score": 1
+  }
+ },
+ {
+  "date": "2026-11-17",
+  "run": "backfill",
+  "posted_ts": 1794907509,
+  "posted_hour_pkt": 14,
+  "format": "video",
+  "story": "“I may not return alive.” From a solitary cell in Adiala, Imran Khan has written to Pakistan’s top judges. He says his blood pressure has hit 193, he has lost 8",
+  "topic": "politics/PTI",
+  "hook": "“I may not return alive.”",
+  "buffer_ig": "6b059acc432c6e55b17e56d9",
+  "ig": {
+   "views": 2437,
+   "reach": 2090,
+   "likes": 133,
+   "comments": 7,
+   "score": 147
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "run": "backfill",
+  "posted_ts": 1794991792,
+  "posted_hour_pkt": 13,
+  "format": "video",
+  "story": "بلاول بمقابلہ اسٹیبلشمنٹ؟ 🔥 “اگر کل میرا سافٹ ویئر اپڈیٹ ہو جائے اور میں پارٹی کو سندھ کی تقسیم پر ووٹ دینے کا کہوں، تو میرے خلاف بغاوت ہو جائے گی۔” کراچی پریس ",
+  "topic": "politics/PPP",
+  "hook": "بلاول بمقابلہ اسٹیبلشمنٹ؟ 🔥",
+  "buffer_ig": "6b059acc432c6e55b17e56c5",
+  "ig": {
+   "views": 445,
+   "reach": 326,
+   "likes": 5,
+   "comments": 0,
+   "score": 5
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "run": "backfill",
+  "posted_ts": 1795005218,
+  "posted_hour_pkt": 17,
+  "format": "video",
+  "story": "The Pakistan Daily’s Editor, Mr Hamza Azhar Salam spoke to India’s Major (R) Gaurav Arya about the debate on new provinces in Pakistan and other bilateral issue",
+  "topic": "India",
+  "hook": "The Pakistan Daily’s Editor, Mr Hamza Azhar Salam spoke to India’s Major (R) Gaurav Arya about the debate on new provinces in Pakistan and o",
+  "buffer_ig": "6b059acc432c6e55b17e56df",
+  "ig": {
+   "views": 831,
+   "reach": 690,
+   "likes": 4,
+   "comments": 0,
+   "score": 4
+  }
+ },
+ {
+  "date": "2026-11-19",
+  "run": "backfill",
+  "posted_ts": 1795085862,
+  "posted_hour_pkt": 15,
+  "format": "image",
+  "story": "5 minutes instead of 18. That’s what speed changes. 🚀 The Pakistan Army has test-fired the Fatah-3 supersonic cruise missile. ISPR says it can strike long-range",
+  "topic": "defence",
+  "hook": "5 minutes instead of 18. That’s what speed changes. 🚀",
+  "buffer_ig": "6b059acc432c6e55b17e56c9",
+  "ig": {
+   "views": 1510,
+   "reach": 1282,
+   "likes": 22,
+   "comments": 1,
+   "score": 24
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "run": "backfill",
+  "posted_ts": 1795163268,
+  "posted_hour_pkt": 13,
+  "format": "video",
+  "story": "BISP has launched a new digital payment system, and more than 10 million deserving women and their families stand to benefit directly. Digital wallets have alre",
+  "topic": "economy",
+  "hook": "BISP has launched a new digital payment system, and more than 10 million deserving women and their families stand to benefit directly. Digit",
+  "buffer_ig": "6b059acc432c6e55b17e56c3",
+  "ig": {
+   "views": 250,
+   "reach": 188,
+   "likes": 2,
+   "comments": 0,
+   "score": 2
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "run": "backfill",
+  "posted_ts": 1795185541,
+  "posted_hour_pkt": 19,
+  "format": "carousel",
+  "story": "“Ahmad knows everything I think and everything I say.” 👁️ A tweet by Hamza Azhar Salam on the political and tribal psychology of President Asif Ali Zardari, as ",
+  "topic": "politics/PTI",
+  "hook": "“Ahmad knows everything I think and everything I say.” 👁️",
+  "buffer_ig": "6b059acc432c6e55b17e56d5",
+  "ig": {
+   "views": 31643,
+   "reach": 18836,
+   "likes": 279,
+   "comments": 10,
+   "score": 299
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "run": "backfill",
+  "posted_ts": 1795335794,
+  "posted_hour_pkt": 13,
+  "format": "image",
+  "story": "Pakistan’s first minister in India since the May 2025 war. Federal Minister Dr Musadik Malik led Pakistan’s delegation at the first SCO Civilisational Dialogue ",
+  "topic": "India",
+  "hook": "Pakistan’s first minister in India since the May 2025 war.",
+  "buffer_ig": "6b059acc432c6e55b17e56ff",
+  "ig": {
+   "views": 1920,
+   "reach": 1687,
+   "likes": 60,
+   "comments": 0,
+   "score": 60
+  }
+ },
+ {
+  "date": "2026-11-23",
+  "run": "backfill",
+  "posted_ts": 1795422868,
+  "posted_hour_pkt": 13,
+  "format": "video",
+  "story": "“The day I respond, that minister won’t be able to show his face.” 👀 Interior Minister Mohsin Naqvi named no one, but everyone in Islamabad knows who he means. ",
+  "topic": "politics",
+  "hook": "“The day I respond, that minister won’t be able to show his face.” 👀",
+  "buffer_ig": "6b059acc432c6e55b17e56b9",
+  "ig": {
+   "views": 1863,
+   "reach": 1623,
+   "likes": 12,
+   "comments": 0,
+   "score": 12
+  }
+ },
+ {
+  "date": "2026-11-24",
+  "run": "backfill",
+  "posted_ts": 1795511048,
+  "posted_hour_pkt": 14,
+  "format": "carousel",
+  "story": "🇵🇰🚀 Pakistan is going to space. Wing Commander Muhammad Zeeshan Ali, a 40-year-old PAF pilot, will lift off tomorrow, Wednesday, at 5:18am PKT aboard China’s Sh",
+  "topic": "space/science",
+  "hook": "🇵🇰🚀 Pakistan is going to space.",
+  "buffer_ig": "6b059acc432c6e55b17e56c1",
+  "ig": {
+   "views": 764,
+   "reach": 499,
+   "likes": 11,
+   "comments": 1,
+   "score": 13
+  }
+ },
+ {
+  "date": "2026-11-24",
+  "run": "backfill",
+  "posted_ts": 1795530794,
+  "posted_hour_pkt": 19,
+  "format": "video",
+  "story": "\"I regret to say that right now, I am under a state siege.\" 🚨 JUI-F chief Maulana Fazlur Rehman says police and roadblocks stopped him from leaving his Lahore r",
+  "topic": "politics/JUI-F",
+  "hook": "\"I regret to say that right now, I am under a state siege.\" 🚨",
+  "buffer_ig": "6b059f680f65343838db3701",
+  "ig": {
+   "views": 14394,
+   "reach": 11853,
+   "likes": 185,
+   "comments": 38,
+   "score": 261
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "run": "backfill",
+  "posted_ts": 1795586436,
+  "posted_hour_pkt": 11,
+  "format": "video",
+  "story": "Diesel is Rs4 cheaper from today. Petrol? Just Re1. Petrol: Rs318 a litre (was Rs319) Diesel (HSD): Rs353 a litre (was Rs357) But petrol dealers are threatening",
+  "topic": "economy",
+  "hook": "Diesel is Rs4 cheaper from today. Petrol? Just Re1.",
+  "buffer_ig": "6b06606740e1d58d12f8740c",
+  "ig": {
+   "views": 267,
+   "reach": 173,
+   "likes": 1,
+   "comments": 0,
+   "score": 1
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "run": "backfill",
+  "posted_ts": 1795600914,
+  "posted_hour_pkt": 15,
+  "format": "carousel",
+  "story": "Can a referendum create new provinces? Short answer: not on its own. Interior Minister Mohsin Naqvi wants the question put to the public. Rana Sanaullah says on",
+  "topic": "politics/provinces",
+  "hook": "Can a referendum create new provinces? Short answer: not on its own.",
+  "buffer_ig": "6b06607db6204bca46c57d40",
+  "ig": {
+   "views": 113,
+   "reach": 43,
+   "likes": 2,
+   "comments": 0,
+   "score": 2
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "run": "backfill",
+  "posted_ts": 1795612172,
+  "posted_hour_pkt": 18,
+  "format": "video",
+  "story": "🇵🇰🚀 Pakistan's first astronaut is in space. Wing Commander Muhammad Zeeshan Ali, 40, a Pakistan Air Force pilot, walked out at Jiuquan this morning with the gre",
+  "topic": "space/science",
+  "hook": "🇵🇰🚀 Pakistan's first astronaut is in space.",
+  "buffer_ig": "6b0662469cddd8483aaa528c",
+  "ig": {
+   "views": 1854,
+   "reach": 1665,
+   "likes": 83,
+   "comments": 1,
+   "score": 85
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "run": "backfill",
+  "posted_ts": 1795672850,
+  "posted_hour_pkt": 11,
+  "format": "video",
+  "story": "Only 47%. Interior Minister Mohsin Naqvi says social media platforms acted on fewer than half of the counter-terrorism complaints Pakistan's CTDs sent them, and",
+  "topic": "government",
+  "hook": "Only 47%. Interior Minister Mohsin Naqvi says social media platforms acted on fewer than half of the counter-terrorism complaints Pakistan's",
+  "buffer_ig": "6b07b1d2d4eda4b659d7f446",
+  "ig": {
+   "views": 145,
+   "reach": 117,
+   "likes": 0,
+   "comments": 0,
+   "score": 0
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "run": "backfill",
+  "posted_ts": 1795685508,
+  "posted_hour_pkt": 14,
+  "format": "carousel",
+  "story": "The D-8 now has a permanent health working group. 🩺 Its first meeting, held virtually this week and chaired by Türkiye, agreed five priority areas: emergency pr",
+  "topic": "diplomacy/D-8",
+  "hook": "The D-8 now has a permanent health working group. 🩺",
+  "buffer_ig": "6b07fc46d96a331f4a7977ef",
+  "ig": {
+   "views": 78,
+   "reach": 27,
+   "likes": 2,
+   "comments": 0,
+   "score": 2
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "run": "backfill",
+  "posted_ts": 1795687292,
+  "posted_hour_pkt": 15,
+  "format": "carousel",
+  "story": "Opposition leader Mahmood Khan Achakzai wants a \"national government\" and a \"constitutional and dignified exit from politics\" for the military. PTI is trying to",
+  "topic": "politics/opposition",
+  "hook": "Opposition leader Mahmood Khan Achakzai wants a \"national government\" and a \"constitutional and dignified exit from politics\" for the milita",
+  "buffer_ig": "6b07b2359f6dda31ccc17f1d",
+  "ig": {
+   "views": 160,
+   "reach": 64,
+   "likes": 3,
+   "comments": 0,
+   "score": 3
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "run": "backfill",
+  "posted_ts": 1795692756,
+  "posted_hour_pkt": 16,
+  "format": "video",
+  "story": "India has cancelled two screenings of a Pakistani drama. 🎬 What happened: posters for two Dar-e-Nijaat fan watch parties in Bengaluru went viral. One was a dinn",
+  "topic": "India",
+  "hook": "India has cancelled two screenings of a Pakistani drama. 🎬",
+  "buffer_ig": "6b08082bd8848786e0d7808d",
+  "ig": {
+   "views": 1924,
+   "reach": 1621,
+   "likes": 21,
+   "comments": 4,
+   "score": 29
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "run": "backfill",
+  "posted_ts": 1795705456,
+  "posted_hour_pkt": 20,
+  "format": "video",
+  "story": "Approved for two floors. Built to six. A building under construction collapsed in Karachi's Administration Housing Society on Wednesday, killing at least 3 and ",
+  "topic": "Karachi",
+  "hook": "Approved for two floors. Built to six.",
+  "buffer_ig": "6b07b444d4eda4b659d8cafb",
+  "ig": {
+   "views": 270,
+   "reach": 224,
+   "likes": 1,
+   "comments": 0,
+   "score": 1
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "run": "backfill",
+  "posted_ts": 1795713085,
+  "posted_hour_pkt": 22,
+  "format": "video",
+  "story": "Maulana Fazlur Rehman has called for highways and motorways to be blocked across Pakistan. 🛣️ JUI-F workers have shut the M1 Motorway near Peshawar after the ca",
+  "topic": "politics/JUI-F",
+  "hook": "Maulana Fazlur Rehman has called for highways and motorways to be blocked across Pakistan. 🛣️",
+  "buffer_ig": "6b0867481fa409158280321b",
+  "ig": {
+   "views": 2348,
+   "reach": 2068,
+   "likes": 22,
+   "comments": 0,
+   "score": 22
+  }
+ },
+ {
+  "date": "2026-11-27",
+  "run": "backfill",
+  "posted_ts": 1795777859,
+  "posted_hour_pkt": 16,
+  "format": "video",
+  "story": "Pakistan has reported 10 polio cases in 2026. The latest: a 14-month-old girl in Karak, KP, the district's first case in six years. Cases are down from 74 in 20",
+  "topic": "health",
+  "hook": "Pakistan has reported 10 polio cases in 2026. The latest: a 14-month-old girl in Karak, KP, the district's first case in six years. Cases ar",
+  "buffer_ig": "6b09628c049983dcfbb06478",
+  "ig": {
+   "views": 543,
+   "reach": 416,
+   "likes": 4,
+   "comments": 0,
+   "score": 4
+  }
+ },
+ {
+  "date": "2026-11-27",
+  "run": "backfill",
+  "posted_ts": 1795779185,
+  "posted_hour_pkt": 16,
+  "format": "video",
+  "story": "Was Maulana Fazlur Rehman arrested? He told supporters in Lahore that the IG and CCPO had taken him into custody. Police say he was not arrested and went home w",
+  "topic": "politics/JUI-F",
+  "hook": "Was Maulana Fazlur Rehman arrested? He told supporters in Lahore that the IG and CCPO had taken him into custody. Police say he was not arre",
+  "buffer_ig": "6b0965fd776ce212760ee7e3",
+  "ig": {
+   "views": 449,
+   "reach": 354,
+   "likes": 2,
+   "comments": 0,
+   "score": 2
+  }
+ },
+ {
+  "date": "2026-11-27",
+  "run": "backfill",
+  "posted_ts": 1795781576,
+  "posted_hour_pkt": 17,
+  "format": "video",
+  "story": "\"PTI is a political reality.\" Bilawal Bhutto-Zardari wants the government to win back PTI's trust, starting with its reserved seats. The PML-N's answer: he is \"",
+  "topic": "politics/PPP",
+  "hook": "\"PTI is a political reality.\" Bilawal Bhutto-Zardari wants the government to win back PTI's trust, starting with its reserved seats. The PML",
+  "buffer_ig": "6b0966cd658222306c08c951",
+  "ig": {
+   "views": 667,
+   "reach": 204,
+   "likes": 2,
+   "comments": 0,
+   "score": 2
+  }
+ },
+ {
+  "date": "2026-11-27",
+  "run": "backfill",
+  "posted_ts": 1795782694,
+  "posted_hour_pkt": 17,
+  "format": "carousel",
+  "story": "Why are Islamabad and Rawalpindi shut today? A local holiday was declared with no reason given. It coincides with the Makkah defence pact meeting, with delegati",
+  "topic": "defence/foreign policy",
+  "hook": "Why are Islamabad and Rawalpindi shut today? A local holiday was declared with no reason given. It coincides with the Makkah defence pact me",
+  "buffer_ig": "6b0962a0062ed764a809bc8c",
+  "ig": {
+   "views": 88,
+   "reach": 24,
+   "likes": 2,
+   "comments": 0,
+   "score": 2
+  }
+ },
+ {
   "date": "2026-11-27",
   "run": "clip-1747",
   "posted_ts": 1795784294,
@@ -15,16 +483,17 @@
   "buffer_x": "6b097e56062ed764a8170277",
   "x_url": "https://twitter.com/ThePakDaily/status/2126299506459197862",
   "x": {
-   "views": 203,
-   "likes": 3,
+   "views": 294,
+   "likes": 5,
    "reposts": 0,
    "replies": 0,
    "quotes": 0,
-   "score": 3
+   "score": 5
   },
-  "x_checked_h": 1.5,
+  "x_checked_h": 14.2,
   "ig": {
    "views": 10,
+   "reach": 0,
    "likes": 1,
    "comments": 0,
    "score": 1
@@ -44,6 +513,43 @@
   "buffer_ig": "6b099693015034238d340074",
   "buffer_ig_story": "6b09969e34d224b14a8f0e16",
   "buffer_x": "6b0996a618c8c6749bf16d7c",
-  "x_url": "https://twitter.com/ThePakDaily/status/2126325628236444049"
+  "x_url": "https://twitter.com/ThePakDaily/status/2126325628236444049",
+  "x": {
+   "views": 126,
+   "likes": 4,
+   "reposts": 0,
+   "replies": 0,
+   "quotes": 0,
+   "score": 4
+  },
+  "x_checked_h": 12.5
+ },
+ {
+  "date": "2026-11-27",
+  "run": "backfill",
+  "posted_ts": 1795799932,
+  "posted_hour_pkt": 22,
+  "format": "video",
+  "story": "Pakistan, Saudi Arabia and Türkiye have reaffirmed their collective defence pledge at a Makkah Defence Alliance meeting in Islamabad. 🇵🇰🇸🇦🇹🇷 The alliance's Stra",
+  "topic": "defence/foreign policy",
+  "hook": "Pakistan, Saudi Arabia and Türkiye have reaffirmed their collective defence pledge at a Makkah Defence Alliance meeting in Islamabad. 🇵🇰🇸🇦🇹🇷",
+  "buffer_ig": "6b09bb43446d2e47aaa524d3"
+ },
+ {
+  "date": "2026-11-28",
+  "run": "morning-0808",
+  "posted_ts": 1795836111,
+  "posted_hour_pkt": 8,
+  "format": "carousel",
+  "story": "Mehran Khan of Swat caught a six one-handed from the back of a moving motorbike at a Swat Premier League match in Mingora; Rs10,000 prize; BBC, AFP and The Athletic coverage",
+  "topic": "sport/human interest",
+  "hook": "He caught a six one-handed from the back of a moving motorbike.",
+  "seconds": 0,
+  "source_account": "nytimes",
+  "source_heat": 253.5,
+  "buffer_ig": "6b0a48b9eab081a3f51c5953",
+  "buffer_ig_story": "6b0a48c42a2e4f66caf646d5",
+  "buffer_x": "6b0a48cd70e80ae8f1cafe72",
+  "x_url": "https://twitter.com/ThePakDaily/status/2126516894794498369"
  }
 ]
